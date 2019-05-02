@@ -1,2 +1,1 @@
-# Color-Channels
-Make discord channels more coored
+This branch is for the preview images...
