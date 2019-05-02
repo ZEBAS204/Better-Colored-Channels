@@ -10,4 +10,4 @@
 
 
 ### Preview
-<img src="https://raw.githubusercontent.com/ZEBAS204/Better-Colored-Channels/stuffs/stuffs/preview.JPG"/>
+<img src="https://github.com/ZEBAS204/Better-Colored-Channels/blob/stuffs/preview.JPG"/>
