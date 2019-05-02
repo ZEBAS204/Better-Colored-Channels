@@ -1,0 +1,40 @@
+/*//META{"name":"Colored Channels","description":"Change the color of all channels.","author":"Qwerasd & SEBAS204","version":"1.1"}*//**/
+
+@import url('https://raw.githubusercontent.com/ZEBAS204/Color-Channels/master/src/cc.css');
+
+:root {
+   /* Selected background opacity & Displayed color hover/selected */
+	--bgop: 0.4;
+	
+   /* Cont. 0 & 14 */
+	--C0: #b61919; --C0-n: #633636; --C0-t: 170, 51, 51;
+	
+   /* Cont. 1 & 15 */
+	--C1: #6cb9e0; --C1-n: #365463; --C1-t: 108, 185, 224;
+	
+   /* Cont. 2 & 16 */
+	--C2: #926ce0; --C2-n: #453663; --C2-t: 146, 108, 224;
+	
+   /* Cont. 3 & 17 */
+	--C3: #e06cb9; --C3-n: #633654; --C3-t: 181, 85, 138;
+	
+   /* Cont. 4 & 18 */
+	--C4: #e0926c; --C4-n: #634536; --C4-t: 224, 146, 108;
+	
+   /* Cont. 5 & 19 */
+	--C5: #b9e06c; --C5-n: #546336; --C5-t: 185, 224, 108;
+	
+   /* Cont. 6 & 20 */
+	--C6: #6ce092; --C6-n: #366345; --C6-t: 108, 224, 146;
+	
+   /* Cont. 7 & 21 */
+	--C7: #6cb9e0; --C7-n: #365463; --C7-t: 108, 185, 224;
+	
+   /* Cont. 8 & 22 */
+	--C8: #58ffd8; --C8-n: #3e6f64; --C8-t: 0, 255, 220;
+
+   /* Hidden Channels (plugin) */
+	--CH: #cc0303; --CH-t: 222, 51, 51;
+}
+
+/*--> Thanks to Qwerasd#5202 for the idea! */
