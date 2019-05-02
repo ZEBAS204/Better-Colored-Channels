@@ -12,4 +12,4 @@
 ___
 
 ### Preview ([Full size](https://raw.githubusercontent.com/ZEBAS204/Better-Colored-Channels/stuffs/preview.JPG))
-<img height="300" src="https://github.com/ZEBAS204/Better-Colored-Channels/blob/stuffs/preview.JPG"/>
+<a href="https://raw.githubusercontent.com/ZEBAS204/Better-Colored-Channels/stuffs/preview.JPG"><img height="300" src="https://github.com/ZEBAS204/Better-Colored-Channels/blob/stuffs/preview.JPG"/></a>
