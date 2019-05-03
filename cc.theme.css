@@ -3,7 +3,7 @@
 @import url('https://raw.githubusercontent.com/ZEBAS204/Color-Channels/master/src/bcc.css');
 
 :root {
-   /* Selected background opacity & Displayed color hover/selected */
+   /* Selected background opacity */
 	--bgop: 0.4;
 	
    /* Cont. 0 & 14 */
