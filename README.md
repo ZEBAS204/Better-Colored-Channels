@@ -1,5 +1,5 @@
 ## Better Colored Channels is a customisable version from Qwerasd
-### You can see the original theme [here](https://qwerasd205.github.io/ColoredChannels).
+### You can see the original theme [here](https://qwerasd205.github.io/ColoredChannels) [[source]](https://github.com/qwerasd205/qwerasd205.github.io/blob/master/ColoredChannels.theme.css)
 
 ___
 
