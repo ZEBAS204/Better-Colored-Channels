@@ -1,6 +1,12 @@
 ## Better Colored Channels is a customisable version from Qwerasd
 ### You can see the original theme [here](https://qwerasd205.github.io/ColoredChannels).
 
+___
+
+```
+> The last Discord update broken the channels classes... Browsing a solution (maybe with gradient).
+```
+___
 
 ### Changes from the original
 - Color Vars
