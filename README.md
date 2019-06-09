@@ -4,7 +4,7 @@
 ___
 
 ```
-> The last Discord update broken the channels classes... Browsing a solution (maybe with gradient).
+> The last Discord update broken the channels classes, archived for now.
 ```
 ___
 
